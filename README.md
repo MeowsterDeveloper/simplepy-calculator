@@ -15,4 +15,4 @@ Simplepy-Calculator suports addition, substraction, division and multiplication 
 Once you clone this repository go to the folder and just type ./script.sh in your terminal
 
 ## Author
-Félix Sánchez
+[Félix Sánchez](https://twitter.com/snapcamel)
